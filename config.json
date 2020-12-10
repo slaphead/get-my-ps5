@@ -1,6 +1,6 @@
 {
-	"logLevel": "debug",
-	"prettyPrint": {
+  "logLevel": "debug",
+  "prettyPrint": {
     "translateTime": "SYS:standard"
   },
   "sms": {
