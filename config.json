@@ -4,7 +4,7 @@
     "translateTime": "SYS:standard"
   },
   "sms": {
-    "active": true,
+    "active": false,
     "limit": 10
   }
 }
