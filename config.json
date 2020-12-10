@@ -1,0 +1,10 @@
+{
+	"logLevel": "debug",
+	"prettyPrint": {
+    "translateTime": "SYS:standard"
+  },
+  "sms": {
+    "active": true,
+    "limit": 10
+  }
+}
